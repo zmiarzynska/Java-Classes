@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Matt",
+      "surname": "Gean",
+      "job": "Doctor",
+      "salary": "1239,90"
+    },
+    {
+      "id": 2,
+      "name": "Oscar",
+      "surname": "Wilde",
+      "job": "Editor",
+      "salary": "20000.00"
+    },
+    {
+      "id": 3,
+      "name": "Adam",
+      "surname": "Waltz",
+      "job": "Musician",
+      "salary": "10000.50"
+    },
+    {
+      "id": 4,
+      "name": "Dean",
+      "surname": "Kowalski",
+      "job": "Doctor",
+      "salary": "27000,10"
+    },
+    {
+      "id": 5,
+      "name": "Damon",
+      "surname": "Gilbert",
+      "job": "Barman",
+      "salary": "10000,45"
+    }
+  ]
+}
